@@ -1,2 +1,26 @@
-# Task3_Netflix_Visualization
-This project performs data visualization on the Netflix Movies &amp; TV Shows dataset using Python, Pandas, Matplotlib, and Seaborn in Jupyter Notebook. Various visual charts were created to analyze content trends, including content added per year, distribution of movies and TV shows, top producing countries, ratings, genres, and duration patterns. 
+# Netflix Movies & TV Shows Data Visualization
+
+This project is completed as part of CodeAlpha Data Analytics Internship — Task 3 (Data Visualization).
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Dataset
+Netflix Movies & TV Shows Dataset from Kaggle.
+
+## Visualizations Created
+- Content added each year
+- Movies vs TV Shows count
+- Top countries producing content
+- Ratings distribution
+- Top genres
+- Duration analysis
+
+## Conclusion
+The project analyzes Netflix content trends and presents insights using visual charts.
+
+
